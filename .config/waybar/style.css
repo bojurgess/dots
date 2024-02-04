@@ -32,15 +32,14 @@ window#waybar.hidden {
 #backlight,
 #battery,
 #network,
+#wireplumber,
 #tray {
   background-color: #89b4fa;
-  color: #1e1e2e;
+  color: #1e1e2a;
   padding: 0 10px;
   margin-top: 2px;
-  margin-left: 2px;
-  margin-right: 2px;
   margin-bottom: 4px;
-  border-radius: 90px;
+  border-radius: 8px;
   background-clip: padding-box;
 }
 
