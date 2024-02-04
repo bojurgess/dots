@@ -14,3 +14,6 @@ compinit
 #
 # Starship
 eval "$(starship init zsh)"
+
+# Aliases
+alias vim=nvim
