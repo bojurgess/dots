@@ -1,0 +1,20 @@
+{
+    "layer": "top",
+    "position": "top",
+    "spacing": 5,
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": [ "tray", "network", "battery", "clock"],
+    "battery": {
+        "format": "{capacity}% {icon} ",
+	"format-alt": "{time}",
+        "format-icons": ["", "", "", "", ""],
+	"states": {
+		"warning": 20,
+		"critical": 10,
+	}
+    },
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    }
+}
