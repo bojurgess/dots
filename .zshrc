@@ -17,3 +17,4 @@ eval "$(starship init zsh)"
 
 # Aliases
 alias vim=nvim
+alias ssh="kitten ssh"
