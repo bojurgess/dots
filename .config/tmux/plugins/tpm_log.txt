@@ -1,0 +1,6 @@
+[2024-02-04 12:13:00.955]	 List of discovered tpm plugins: catppuccin/tmux
+[2024-02-04 12:13:00.973]	 Invoking /home/joe/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-02-04 12:13:01.016]	 Installing "tmux"
+[2024-02-04 12:13:02.228]	   "tmux" download success
+[2024-02-04 12:13:02.246]	 Done.
+
